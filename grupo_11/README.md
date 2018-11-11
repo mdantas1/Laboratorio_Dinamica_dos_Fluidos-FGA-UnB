@@ -132,3 +132,51 @@ Além disso será calculado a rugosidade do tubo, as perdas de cargas distribuí
 - Resultados esperados:
 
 O experimento deve demonstrar a influência da vazão, do diâmetro e da rugosidade do tubo sobre a perda de carga. O resultado esperado baseado na teoria é que quanto maior o diâmetro, menor a perda da carga, porém quando maior a rugosidade do tubo, maior será a perda de carga. Espera-se, também, que demonstrar a diferença de valores de perda de carga distribuída e localizada.
+
+#### Grupo 11 - Etapa 3 ####
+
+- Integrantes:
+
+Abia Matos de Oliveira - 15/0004206,  Gabriel Batista dos Santos Sousa - 14/0020381, Mairon Cruvinel - 09/0123999.
+
+- Divisão de tarefas: 
+
+Com a mudança do experimento, os dados a serem levantados foram alterados. As medidas foram feitas em conjunto, com a presença de todos os integrantes do grupo.
+
+- Procedimentos:
+
+  -> Experimento montado:
+O experimento montado pode ser visto nas imagens abaixo, figuras 1 e 2:
+
+![experimento pt 1 g11](https://user-images.githubusercontent.com/42481602/48318759-15779080-e5ec-11e8-9d0c-19079a0461d7.jpg)
+Figura 1: Bomba, equipamento de acionamento, manômetro e tubulação do experimento.
+
+![experimento pt 2 g11](https://user-images.githubusercontent.com/42481602/48318773-32ac5f00-e5ec-11e8-81f8-f0483e406664.jpg)
+Figura 2: Vertedouro.
+
+  -> Procedimentos executados:
+  
+O experimento descrito na etapa 2 não foi viável, uma vez que o equipamento necessário para tal experimento era de outro professor e o pedido de permissão para utilização do equipamento resultaria no atraso da realização do experimento. Por isso foi decido a mudança para um experimento onde o equipamento encontrava-se disponível. O equipamento utilizado permitiu a observação da perda de carga em uma tubulação vertical, e o fluido utilizado nessa tubulação era água. Esses dois aspectos foram as divergências do experimento anterior que seria feito em uma tubulação horizontal e o fluido utilizado seria ar. 
+
+Os novos equipamentos utilizados para a realização do experimento foram:
+  Inversor de frequência WEG CfW09;
+  Motor WEG, trifásico 1750rpm,25cv,60hz;
+  Bomba KSB ETAN100-250, Q=184,4m3/h,H=21,3mca;
+  Reservatório de água 1000l;
+  Manômetro;
+  Vertedouro triangular.
+
+Inicialmente foi medida a temperaruta utilizando um termômetro digital, em seguida com o auxílio de uma trena mediu-se o diâmetro do tubo e a distância entre a bomba e o manômetro. A partir do código encontrado na tubulação foi possível encontrar a espessura dele na tabela de descrição do fabricante. Em sequência foi medida a altura de água inicial no vertedouro utilizando uma trena instalada no reservatório. Foi então ligado o sistema, procedimento feito pelo professor por questões de segurança do laboratório. Com a bomba ligada aferiu-se a pressão manométrica visualmente, na mesma altura do manômetro para evitar erros de medida. Por fim mediu-se altura final de água no vertedouro(com a bomba ligada), também com a trena do reservatório.
+
+   -> Dados medidos:
+  
+Com a execução do experimento, os dados obtidos foram:
+
+  - Temperatura: 26,5ºC;
+  - Distância entre a bomba e o manômetro: 1,61m;
+  - Diâmetro da tubulação: 110,16mm;
+  - Espessura da tubulação: 1mm;
+  - Pressão manométrica: 6,2-8,2 mca;
+  - Altura de água inicial:13cm;
+  - Altura de final final: 33cm.
+
