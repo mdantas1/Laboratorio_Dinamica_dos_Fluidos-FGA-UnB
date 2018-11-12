@@ -115,7 +115,10 @@ O resultado dessa equação apresenta a característica do regime do fluído.
     - Coloração da água para azul utilizando o corante artifícial;
     - Inserção da seringa na mangueira transparente.
     
+   ![Sistema não acoplado](Experimento parte 1.jpeg)
     
+       
+      
     
     
 - Descrição dos procedimentos realizados, onde deverão ser apresentados:
