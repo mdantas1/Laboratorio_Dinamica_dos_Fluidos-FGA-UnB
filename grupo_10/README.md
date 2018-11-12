@@ -105,15 +105,39 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 3.	Execução: ###
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+- Integrantes do grupo:
+  - Thainá Rodrigues Fernandes - 14/0051724
+  - Danyllo Wenceslau - 16/0117364
+  - Giulliano Cezar - 13/0027260
+  
+- Divisão de tarefas:
 
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
+  Para a execução do experimento todos os membros estarão presentes.
+  
 - Descrição dos procedimentos realizados, onde deverão ser apresentados:
   - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+  
+    ![Imagem 1](bancada1.jpg)
+    
+    ![teste_imagem](bancada2.jpg)
+    
+    ![teste_imagem](bancada3.jpg)
+    
+    A demonstração do princípio de Bernoulli neste experimento utilizará um tubo de venturi, que possibilita a medição da velocidade do escoamento e vazão do líquido dentro do tubo através da diferença de pressão causada pela variação geométrica do aparato. Dessa forma, a aplicação do teorema de Bernoulli em trechos diferentes do sistema, deverá retornar valores que comprovem que há um continuidade de massa, ou seja, em todos os pontos do tubo, a pressão e a velocidade do fluido se ajustam de forma a retornar uma mesma taxa de vazão.
+     
+     Para calcular o coeficiente de descarga é necessário calcular a vazão volumétrica teórica. O que pode ser feito por meio da equação de Bernoulli. ![](https://latex.codecogs.com/gif.latex?P_%7B1%7D%20/%5Cgamma%20&plus;%20V_%7B1%7D%5E%7B2%7D/2g%20&plus;%20z_%7B1%7D%20%3D%20P_%7B2%7D%20/%5Cgamma%20&plus;%20V_%7B2%7D%5E%7B2%7D/2g%20&plus;%20z_%7B2%7D)
+     
+    A partir desta, a velocidade do fluido pode ser encontrada, no tubo (ponto 1) e na garganta (ponto 2).
 
+    ![Imagem 1](tubo.png)
+
+    A velocidade no ponto 1 multiplicada pela área do tubo nesse ponto é igual a velocidade no ponto 2 multiplicada pela área da garganta. Esse valor é a vazão volumétrica teórica.
+
+    O coeficiente de descarga é a razão entre a vazão teórica e a vazão do rotâmetro, que foi medida experimentalmente.
+     
+    ![Imagem 1](calculo1.jpg)
+    
+    ![Imagem 1](calculo2.jpg)
 
 ### 4.	Análise e conclusão: ###
 
