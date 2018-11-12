@@ -114,8 +114,8 @@ O resultado dessa equação apresenta a característica do regime do fluído.
     - Conexão do reservatório de água com a mangueira transparente e o regulador de vazão;
     - Coloração da água para azul utilizando o corante artifícial;
     - Inserção da seringa na mangueira transparente.
-    
-  ![Sistema não acoplado](Experimento parte 1.jpeg)
+  ![Teste de legenda de imagem](Experimento parte 1.jpeg)
+  
     
        
       
