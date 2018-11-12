@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
    
 ## 2.3 Dados a serem coletados: ##
 
-   Para tentear comprovar o efeito de Bernoulli, será utilizado o manômetro digital para três medições diferentes:
+   Para tentar comprovar o efeito de Bernoulli, será utilizado o manômetro digital para três medições diferentes:
     
    1)	Pressão na saída do secador (P1);
       
@@ -94,6 +94,61 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
  ## 2.4 Resultados esperados: ##
  
   O efeito Bernoulli baseia-se na observação de que com a movimentação do ar, a pressão do mesmo diminui, então, partindo-se desta         ideia, é esperado que a bolinha se mantenha flutuando no fluxo de ar do secador, pois o secador provocará um fluxo de ar com             velocidade maior que o ar da vizinhança (ar ambiente), propiciando uma pressão menor e o ar ascendente será suficiente para manter a     bolinha em suspensão. A bolinha se manterá ao centro deste fluxo, visto que a pressão do ar mais lento, o ar periférico do fluxo, a     forçará a se manter no ponto onde a pressão é menor, ou seja, no centro do fluxo.
+  
+  
+  
+ # 3. Execução: #
+  
+  ## 3.1 Materiais utilizados: ##
+  
+-Secador de cabelo;
+-Bolinha de Tênis de mesa;
+-Trena de 3 metros;
+-Anemômetro.
+
+## 3.2 Divisão de tarefas: ##
+
+	As tarefas foram realizadas cumprindo a divisão pre estabelecida anteriormente.
+
+## 3.3 Procedimento realizado: ## 
+
+	O experimento realizado consistiu em medir valores de velocidade do ar (na saída e na altura da bola), peso e diâmetro, além das observações em relação a altura aproximada em que a bolinha fica e aumento ou diminuição da estabilidade.
+	Houve uma alteração nos dados planejados anteriormente para serem coletados. Antes era planejado medir com o auxílio de um manômetro a pressão do ar em variadas posições, porém foi concluído que não era possível obter um valor confiável em um sistema aberto como seria o caso desse experimento. Foi decidido então substituir ideia de medição de pressão pela medida de velocidade em determinados pontos através de um anemômetro digital.
+	
+Procedimento 1:
+	
+	Com o auxílio de uma balança de precisão e de um paquímetro medimos o peso e o diâmetro da bolinha. 
+
+			
+                                    Figura 1 : Massa da bolinha 
+
+
+                                    Figura 2 :Diâmetro da bolinha 
+Procedimento 2:
+
+Ligamos o secador de cabelo em velocidade única, porém realizando medições com três temperaturas diferentes selecionáveis no próprio secador de cabelo (temperatura 1 é a do ar ambiente, temperatura 2 quente, e a temperatura 3 que é a mais quente disponível no secador). Vale ressaltar que apesar de ter utilizado uma única velocidade selecionável no equipamento, a mesma sofre alterações de acordo com a temperatura do ar.
+
+
+		(GIF)
+Procedimento 3:
+
+	Aqui obtemos com o auxílio de uma trena os valores relacionados a altura aproximada da bolinha em cada temperatura do ar na saída do bocal do secador, e também a velocidade do ar com o auxílio de um Anemômetro digital, além do comportamento da bolinha com as variadas temperaturas e inclinações.
+
+
+## 3.4 Dados coletados: ##
+                                    
+				    
+				    
+				    
+
+Foram feitas com o auxílio do anemômetro 3 medições de velocidade, temperatura e umidade do ar em cada condição, sendo elas:
+
+Medições na saída do bocal (nas 3 temperaturas disponíveis no secador);
+Medições antes da bolinha (nas 3 temperaturas disponíveis no secador) ;
+Medições depois da bolinha (nas 3 temperaturas disponíveis no secador).
+
+A terceira medição de velocidade não houve precisão, tendo valores aleatórios e inconsistentes, sendo assim, não foi coletado dado algum dessa parte. Também é possível observar que nos dados com o ar quente (temperaturas 2 e 3) ocorreu uma certa imprecisão entre a primeira medida e as duas últimas.
+
   
   # Referências #
   
