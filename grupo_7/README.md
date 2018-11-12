@@ -101,10 +101,13 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
   
   ## 3.1 Materiais utilizados: ##
   
-	-Secador de cabelo;
-	-Bolinha de Tênis de mesa;
-	-Trena de 3 metros;
-	-Anemômetro.
+-Secador de cabelo;
+
+-Bolinha de Tênis de mesa;
+
+-Trena de 3 metros;
+
+-Anemômetro.
 
 ## 3.2 Divisão de tarefas: ##
 
@@ -122,11 +125,11 @@ Com o auxílio de uma balança de precisão e de um paquímetro medimos o peso e
 
 https://user-images.githubusercontent.com/42424593/48320566-a8bbc080-e602-11e8-8ded-4d0bbeb46f04.jpeg
 
-				Figura 1 : Massa da bolinha;
+Figura 1 : Massa da bolinha;
 
 https://user-images.githubusercontent.com/42424593/48320580-c557f880-e602-11e8-8ba5-4fadd13b88d7.jpeg
 
-				Figura 2 :Diâmetro da bolinha;
+Figura 2 :Diâmetro da bolinha;
 
 
 Procedimento 2:
@@ -135,15 +138,15 @@ Ligamos o secador de cabelo em velocidade única, porém realizando medições c
 
 https://user-images.githubusercontent.com/42424593/48320427-5f1ea600-e601-11e8-9206-4b907fc2e759.gif
 
-				Figura 3 : Ar frio; 
+Figura 3 : Ar frio; 
 
 https://user-images.githubusercontent.com/42424593/48320459-a9a02280-e601-11e8-831e-280250e516e2.gif
 
-				Figura 1 : Ar quente;
+Figura 4 : Ar quente;
 
 https://user-images.githubusercontent.com/42424593/48320466-c2a8d380-e601-11e8-8471-742a05a9ab91.gif
 
-				Figura 1 : Ar mais quente;
+Figura 5 : Ar mais quente;
 
 
 Procedimento 3:
@@ -161,9 +164,11 @@ https://user-images.githubusercontent.com/42424593/48320522-32b75980-e602-11e8-8
 
 Foram feitas com o auxílio do anemômetro 3 medições de velocidade, temperatura e umidade do ar em cada condição, sendo elas:
 
-	Medições na saída do bocal (nas 3 temperaturas disponíveis no secador);
-	Medições antes da bolinha (nas 3 temperaturas disponíveis no secador) ;
-	Medições depois da bolinha (nas 3 temperaturas disponíveis no secador).
+-Medições na saída do bocal (nas 3 temperaturas disponíveis no secador);
+
+-Medições antes da bolinha (nas 3 temperaturas disponíveis no secador);
+
+-Medições depois da bolinha (nas 3 temperaturas disponíveis no secador).
 
 A terceira medição de velocidade não houve precisão, tendo valores aleatórios e inconsistentes, sendo assim, não foi coletado dado algum dessa parte. Também é possível observar que nos dados com o ar quente (temperaturas 2 e 3) ocorreu uma certa imprecisão entre a primeira medida e as duas últimas.
 
