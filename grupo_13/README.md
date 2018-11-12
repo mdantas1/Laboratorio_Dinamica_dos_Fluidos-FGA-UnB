@@ -145,7 +145,7 @@ Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
 ![Teste de legenda de imagem 10](Regime%20transiente.jpg)
 
 - regime laminar
-![Teste de legenda de imagem 11](Regime%20laminar.jpg)
+![Teste de legenda de imagem 11](laminar.jpg)
 
 
 ### 4.	Análise e conclusão: ###
