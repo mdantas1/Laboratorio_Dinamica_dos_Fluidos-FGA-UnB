@@ -139,13 +139,13 @@ Com esses valores foi possível determinar três vazões
 
 Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
 - regime turbolento
-![Teste de legenda de imagem 9](egime%20turbolento%203.jpeg)
+![Teste de legenda de imagem 9](Regime%20turbolento%203.jpeg)
 
 - regime transiente
 ![Teste de legenda de imagem 10](Regime%20transiente.jpg)
 
 - regime laminar
-![Teste de legenda de imagem 10](Regime%20laminar.jpg)
+![Teste de legenda de imagem 11](Regime%20laminar.jpg)
 
 
 ### 4.	Análise e conclusão: ###
