@@ -89,10 +89,35 @@ O resultado dessa equação apresenta a característica do regime do fluído.
 
 ### 3.	Execução: ###
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
+  ### 3.1 Divisão de tarefas ###
+  
+   - Compra de matérial
+  Responsável: Leonardo Julio Chagas Souza e Vinícius Tadeu Ciurlini
+  - Montagem do sistema reservatório-tubo-torneira
+  Responsável: Vinícis Tadeu Ciurlini;
+  - Teste do sistema reservatório-tubo-torneira 
+  Responsável: Leonardo Julio Chagas Souza e Vinícius Ciurlini;
+  - Preparação da água com coloração azul
+  Responsável: Leonardo Julio Chagas Souza;
+  - Preparação da lâmina de água no sistema reservátorio-tubo-torneira
+  Responsável: Leonardo Julio Chagas Souza e Vinícius Tadeu Ciurlini;
+  - Teste da lâmina de água no sistema reservátorio-tubo-torneira
+  Responsável: Leonardo Julio Chagas Souza e Vinícius Tadeu Ciurlini;
+  - Resultados do experimentos
+  Responsável: Todos os membros do grupo.
+  
+  O membro Pedro Paulo de Souza Pereira não participou da realização do experimento, todo o experimento foi realizado entre os dias 04 de novembro até o dia 08 de novembro de 2018. As mudanças de datas entre o cronograma foi realizada devido a conflitos de agendas.
 
-- Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
+   ### 3.2 Procedimentos ###
+   
+   A montagem do experimento seguiu os seguintes passos:
+    - Conexão do reservatório de água com a mangueira transparente e o regulador de vazão;
+    - Coloração da água para azul utilizando o corante artifícial;
+    - Inserção da seringa na mangueira transparente.
+    
+    
+    
+    
 - Descrição dos procedimentos realizados, onde deverão ser apresentados:
   - Fotos do experimento montado;
   - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
