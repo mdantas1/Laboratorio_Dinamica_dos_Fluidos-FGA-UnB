@@ -112,10 +112,9 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
   
 - Divisão de tarefas:
 
-  Para a execução do experimento todos os membros estarão presentes.
+  Para a execução do experimento todos os membros estiveram presentes.
   
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
+- Fotos do experimento montado;
   
     ![Imagem 1](bancada1.jpg)
     
