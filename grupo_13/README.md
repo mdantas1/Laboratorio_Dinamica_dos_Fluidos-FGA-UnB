@@ -116,16 +116,13 @@ O resultado dessa equação apresenta a característica do regime do fluído.
    - Inserção da seringa na mangueira transparente.
    
    ![Teste de legenda de imagem 2](Experimento%20parte%201.jpeg)
-  
+  Sistema separado 
+  ![Teste de legenda de imagem 2](Experimento%20parte%204.jpeg)
+  Sistema integrado
     
+   ### 3.3 Dados medidos
        
-      
-    
-    
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+
 
 
 ### 4.	Análise e conclusão: ###
