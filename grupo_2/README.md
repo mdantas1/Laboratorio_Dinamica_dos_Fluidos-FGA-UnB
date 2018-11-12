@@ -196,9 +196,9 @@ OBS.:Como ainda não possuimos medidas do túnel de vento, não foi possível el
 
 O corpo de prova escolhido teria de ser compatível para que fosse possível analisar o coeficiente de arrasto em edificações.De forma bem simplória, o corpo de prova foi fabricado em formato de paralelepípedo simulando uma edificação simples.As medidas da referida maquete estão discriminadas imediatamente abaixo.
 
-[Figura 01-Dimensões do corpo de prova](cpdim.jpg)
+![Figura 01-Dimensões do corpo de prova](cpdim.jpg)
 
-[Figura 02-Corpo de prova](cp.jpg)
+![Figura 02-Corpo de prova](cp.jpg)
 
 #### Procedimento 2: Ensaio do corpo de prova no túnel de vento ####
 
@@ -206,17 +206,17 @@ O corpo de prova escolhido teria de ser compatível para que fosse possível ana
 
   Na primeira parte desta etapa, está contemplado a coleta de dados do túnel de vento, tais como área de seção transversal , velocidade de entrada e velocidade de saída.Para aferir a seção transversal, foi utilizado uma trena e para as velocidades, um anemômetro disponibilizado no laboratório.Os resultados das velocidades obtidas estão discriminados na tabela, e as dimensões da seção transversal na figura abaixo.
 
-[Figura 03-Seção transversal](sectransv.jpg)
+![Figura 03-Seção transversal](sectransv.jpg)
 
   Na segunda parte desta etapa, o corpo de prova fabricado foi levado ao túnel de vento e lá foram feitas aferições das velocidades de entrada e saída.
 
-[Figura 04-Túnel de vento](tv.jpg)
+![Figura 04-Túnel de vento](tv.jpg)
 
   Além de aferir as velocidades, nesta etapa foi preciso analisar como calcular a força que atuando no corpo de prova devido ao escoamento,dado extremamente necessário para o cálculo do coeficiente de arrasto.Para tanto, foi utilizado como auxílio o software Ciclone v 5.0.1.beta, tendo como base a norma “NBR-6123-Forças devido ao vento em edificações”.Feitas as devidas simulações,foi possível validar os dados obtidos experimentalmente,com o modelo da simulação.
   
   Assim, a partir da norma alguns dados de entrada para o cálculo do coeficiente de arrasto, tais como velocidade básica do vento, velocidade característica,pressão dinâmica,fatores ![S1](s1.gif),![S2](s22.gif) e ![S3](s3.gif) .A velocidade básica do vento, é a velocidade local.Este dado é retirado do gráfico de isopletas de velocidade disposto na norma.Na região do Distrito Federal, a velocidade básica adotada foi de 32 m/s.
 
-[Figura 05-Isopletas de velocidades.Fonte:NBR-6123/1988)](isopl.jpg)
+![Figura 05-Isopletas de velocidades.Fonte:NBR-6123/1988)](isopl.jpg)
 
   De acordo com a norma, o fator ![S1](s1.gif) está relacionado com a topografia do terreno.O valor adotado será ![S1](s1.gif) =1, que está relacionado a terrenos planos ou fracamente acidentados.
   Já o fator ![s22](s22.gif) está ligado à rugosidade do terreno,dimensões da edificação e altura sobre o terreno.Esse valor é calculado pela seguinte equação:
@@ -230,21 +230,21 @@ Onde:
 - Fr:Fator de rajada.
   Os valores de b,p e Fr podem ser facilmente encontrados na tabela de Parâmetros meteorológicos e pela tabela de fator s2, disposta imediatamente abaixo.
  
- [Figura 06-Tabela de Parâmetros Meteorólogicos](parametrosmeteorológicos.jpg)
+ ![Figura 06-Tabela de Parâmetros Meteorólogicos](parametrosmeteorológicos.jpg)
  
- [Figura 07-Tabela de Fator ![s22](s22.gif)](fators2.jpg)
+ ![Figura 07-Tabela de Fator ![s22](s22.gif)](fators2.jpg)
  
 O fator ![S3](s3.gif) , por sua vez está diretamente relacionado à conceitos estáticos, e leva em consideração o grau de segurança requerido além da vida útil da edificação.O fator ![S3](s3.gif) , também é retirado de uma tabela de valores mínimos do fator ![S3](s3.gif) .
 
-[Figura 08-Valores mínimos do fator ![S3](s3.gif)](fators3.jpg)
+![Figura 08-Valores mínimos do fator ![S3](s3.gif)](fators3.jpg)
 
 O valor de ![S3](s3.gif) utilizado neste experimento se enquadra no Grupo 3-Edificações e instalações industriais com baixo fator de
 3 ocupação (depósitos, silos, construções rurais, etc.).
   A partir destes dados, foi possível calcular o a velocidade característica Vk e ,subsequentemente a pressão dinâmica(q) tanto para o vento incidindo na face maior  (20,4cm x 30,8cm) quanto na face menor (20,5cm x 30,8cm).Por questões de compatibilidade com o software Ciclone, as dimensões foram multiplicadas por um fator 10 e convertidas para a unidade padrão "metro".Depois de inseridos os valores no programa, os dados obtidos para o coeficiente atrito de pressão estão disponibilizados logo abaixo.
   
-[Figura 09-Coeficiente de arrasto para vento a 0°](cofar0.jpg)
+![Figura 09-Coeficiente de arrasto para vento a 0°](cofar0.jpg)
 
-[Figura 10-Coeficiente de arrasto para vento a 90°](cofar90.jpg)
+![Figura 10-Coeficiente de arrasto para vento a 90°](cofar90.jpg)
 
 Além das velocidades aferidas,da área medida, foi possível tambem visualisar brevemente as linhas de corrente , afim de poder identificar características do escoamento.Para isso, foi utilizado incenso para que fosse possível tal visualização.O resultado desta etapa do procedimento foi filmada e está disponibilizada para download logo abaixo.
 
@@ -256,4 +256,9 @@ Além das velocidades aferidas,da área medida, foi possível tambem visualisar 
 
 [Linhas de Corrente-vídeo](video.mp4)
 
-Para a visualização das linhas de corrente, foi preciso utilizar um túnel de vento menor bem como outro corpo de prova devido a quantidade de incenso e a luminosidade principalmente.Mesmo assim, foi possível observar com clareza o que foi proposto.
+Foi necessário mudança do corpo de prova e do túnel de vento, para se conseguir observar as linhas de corrente, apesar disso, se considerarmos apenas como estudo, estas mudanças não afetarão nossa demonstração, guardada as devidas proporções.  Os efeitos da compressibilidade do vento em nossa simulação podem ser desprezados, pois a velocidade do vento não é alta o suficiente, apesar disso, pode-se observar a perda de pressão com a direção axial do escoamento. De acordo com a literatura, o Número de Reynolds é o parâmetro adimensional, combinando um comprimento de escala, uma velocidade de escala e uma viscosidade cinemática para o Escoamento Laminar Turbulento. As linhas de corrente são importantes pois a curvatura nos dá a indicação sore a aceleração e por isso sobre as forças que atuam sobre o fluido.
+
+#### Procedimento 3: Análise e estudo dos resultados ####
+
+-Responsável:Todos
+Este procedimento foi realizado junto com os procedimentos anteriores, e a partir disso foi analisado a validade dos resultados e a necessidade de refazer ou não o experimento.
