@@ -124,8 +124,28 @@ O resultado dessa equação apresenta a característica do regime do fluído.
   Sistema integrado
     
   ### 3.3 Dados medidos
-       
+  
+    Na realização do experimento três regimes foram observados, turbulento, transiente e laminar, com isso para cada regime foi deixado o sistema aberto por 60 segundos e medido o volume de água vazado duranto o tempo. Utilizando a formula:
+![Teste de legenda de imagem 4](Q%3DVA.gif)
+sendo o valor da área:
+![Teste de legenda de imagem 5](A%3D000172.gif)
+Com esses valores foi possível determinar três vazões
+- Vazão 1
+![Teste de legenda de imagem 6](q1.gif)
+- Vazão 2
+![Teste de legenda de imagem 7](q2.gif)
+- Vazão 3
+![Teste de legenda de imagem 8](q3.gif)
 
+Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
+- regime turbolento
+![Teste de legenda de imagem 9](egime%20turbolento%203.jpeg)
+
+- regime transiente
+![Teste de legenda de imagem 10](Regime%20transiente.jpg)
+
+- regime laminar
+![Teste de legenda de imagem 10](Regime%20laminar.jpg)
 
 
 ### 4.	Análise e conclusão: ###
