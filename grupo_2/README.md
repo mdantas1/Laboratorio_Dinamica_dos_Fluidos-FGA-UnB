@@ -283,3 +283,10 @@ Foi necessário mudança do corpo de prova e do túnel de vento, para se consegu
 
 -Responsável:Todos
 Este procedimento foi realizado junto com os procedimentos anteriores, e a partir disso foi analisado a validade dos resultados e a necessidade de refazer ou não o experimento.
+
+## Relatório 04-Grupo 02
+
+### Integrantes
+- Richad S. F. de Souza - 14/0091793
+- Luyza Lorenna L. Lopes - 16/0135133
+- Matheus de Avila Mariano - 16/0137896
