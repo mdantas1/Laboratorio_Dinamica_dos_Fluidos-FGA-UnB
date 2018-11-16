@@ -294,6 +294,11 @@ Este procedimento foi realizado junto com os procedimentos anteriores, e a parti
 
 Como dito anteriormente, para poder calcular o coeficiente arrasto para o corpo de prova foi necessário a obtenção de algumas medidas dentre elas a velocidade, área do corpo e área da seção transversal do túnel de vento para calibrar corretamente o anemômetro.Como o estudo que está sendo feito baseia se principalmente na NBR-6123/1988, boa parte dos parâmetros foram tirados das tabelas da norma tais como a velocidade básica do vento, os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif).
 Para os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), foi obtido os seguintes resultados através da consultas nas respectivas tabelas dispostas na parte 3 deste estudo.Assim:
+
+![sval](sval.gif)
+
+Dos três parâmetros obtidos acima, o parâmetro ![s2](s22.gif) é dado por uma expressão já citada na parte anterior deste estudo.Esta expressão, por sua vez, tem seus valores compilados na tabela de Parâmetros Meteorológicos.
+
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
