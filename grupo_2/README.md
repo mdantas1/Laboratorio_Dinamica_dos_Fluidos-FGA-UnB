@@ -299,6 +299,13 @@ Para os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), foi obtido os s
 
 Dos três parâmetros obtidos acima, o parâmetro ![s2](s22.gif) é dado por uma expressão já citada na parte anterior deste estudo.Esta expressão, por sua vez, tem seus valores compilados na tabela de Parâmetros Meteorológicos.
 
+
+
+Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados também a velocidade característica e a pressão dinâmica.
+
+![vacarac](vcarac.gif)
+
+![pressdin](pressdin.gif)
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
