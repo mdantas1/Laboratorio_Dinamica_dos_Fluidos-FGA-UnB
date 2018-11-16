@@ -290,3 +290,10 @@ Este procedimento foi realizado junto com os procedimentos anteriores, e a parti
 - Richad S. F. de Souza - 14/0091793
 - Luyza Lorenna L. Lopes - 16/0135133
 - Matheus de Avila Mariano - 16/0137896
+
+
+### REFERÊNCIAS BIBLIOGRÁFICAS
+
+-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
+
+-FOX, Robert; MCDONALD, Alan; PRITCHARD, Philip. Introdução à mecânica dos fluidos. 8 ed. São Paulo: LTC, 2014. 884 p.
