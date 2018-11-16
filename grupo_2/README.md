@@ -231,7 +231,7 @@ Figura 05-Isopletas de velocidades.(Fonte:NBR-6123/1988)
   De acordo com a norma, o fator ![S1](s1.gif) está relacionado com a topografia do terreno.O valor adotado será ![S1](s1.gif) =1, que está relacionado a terrenos planos ou fracamente acidentados.
   Já o fator ![s22](s22.gif) está ligado à rugosidade do terreno,dimensões da edificação e altura sobre o terreno.Esse valor é calculado pela seguinte equação:
 
-
+![s2](s2.gif)
 
 Onde:
 - b:lado menor,a menor dimensão horizontal de uma edificação;
