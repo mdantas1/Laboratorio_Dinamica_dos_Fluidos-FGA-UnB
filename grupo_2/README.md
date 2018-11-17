@@ -311,3 +311,4 @@ Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
 
 -FOX, Robert; MCDONALD, Alan; PRITCHARD, Philip. Introdução à mecânica dos fluidos. 8 ed. São Paulo: LTC, 2014. 884 p.
+
