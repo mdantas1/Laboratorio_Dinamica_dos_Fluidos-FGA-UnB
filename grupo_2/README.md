@@ -306,6 +306,17 @@ Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados
 ![vacarac](vcarac.gif)
 
 ![pressdin](pressdin.gif)
+
+Os dados coletados em laboratório, tais como as dimensões do corpo e a velocidade do escoamento foram dispostas em duas tabelas, juntamente com os seus respectivos erros.Para obtenção das velocidades foi utilizado um anemômetro que foi devidamente calibrado com área da seção transversal e ajustado tambem com a temperatura local.Com isso, foram obtidos três valores de velocidade, cada qual com seu respectivo erro.
+
+Figura 11-Tabela de dimensões do corpo de prova.
+ 
+ ![dimcop](dimcop.jpg)
+ 
+ Figura 12-Tabela de velocidades.
+ 
+ ![velk](velk.jpg)
+ 
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
