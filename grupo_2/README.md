@@ -299,7 +299,7 @@ Para os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), foi obtido os s
 
 Dos três parâmetros obtidos acima, o parâmetro ![s2](s22.gif) é dado por uma expressão já citada na parte anterior deste estudo.Esta expressão, por sua vez, tem seus valores compilados na tabela de Parâmetros Meteorológicos.
 
-
+![s2calc](s2calc.gif)
 
 Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados também a velocidade característica e a pressão dinâmica.
 
