@@ -322,8 +322,9 @@ Os dados coletados em laboratório, tal como a velocidade do escoamento foram di
  ![refa](refa.gif)
  
  Comparando os respectivos valores, nota-se certa proximidade e coerência do experimento com a parte analítica.Os dados da velocidade coincidem com o valor de tabela,a força aplicada é próxima com a fornecida pelo programa assim como as pressões dinâmicas.
- Com a velocidade básica do vento,tambem foi possível calcular o número de Reynolds para efeito de estudo do escoamento juntamente com os vídeos dispostos na parte 3 deste estudo.
+ Com a velocidade básica do vento,tambem foi possível calcular o número de Reynolds para efeito de estudo do escoamento juntamente com os vídeos dispostos na parte 3 deste estudo.Assim:
  
+ ![re01](re01.gif)
  
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
