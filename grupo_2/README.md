@@ -309,7 +309,7 @@ Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados
 
 Com a pressão dinâmica, a área a ser considerada que é facilmente obtida através das dimensões do próprio corpo e o coeficiente de arrasto que é dado pelo software Cyclone, foi possível calcular a força atuante no corpo devido o escoamento.
 
-![facalc](facalc.gif)
+![facalc](faatt.gif)
 
 Os dados coletados em laboratório, tal como a velocidade do escoamento foram dispostas em duas tabelas, juntamente com os seus respectivos erros.Para obtenção das velocidades foi utilizado um anemômetro que foi devidamente calibrado com área da seção transversal e ajustado tambem com a temperatura local.Com isso, foram obtidos três valores de velocidade, cada qual com seu respectivo erro.
 
