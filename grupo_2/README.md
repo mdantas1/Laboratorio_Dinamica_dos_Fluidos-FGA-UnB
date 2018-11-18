@@ -317,7 +317,14 @@ Os dados coletados em laboratório, tal como a velocidade do escoamento foram di
  
  ![velk](velk.jpg)
  
- Com os dados experimentais, os cálculos da pressão dinâmica foram refeitos juntamente com a força de arrasto.A velocidade básica do vento obtida no túnel de vento foi multiplicada por um fator de 2,5 e as dimensões foram multiplicadas por um fator de 10 por motivos de compatibilidade com o programa.Desta forma:
+ Com os dados experimentais, os cálculos da pressão dinâmica foram refeitos juntamente com a força de arrasto.A velocidade básica do vento obtida no túnel de vento foi multiplicada por um fator de 2,5 e as dimensões foram multiplicadas por um fator de 10, por motivos de compatibilidade com o programa.Desta forma:
+ 
+ ![refa](refa.gif)
+ 
+ Comparando os respectivos valores, nota-se certa proximidade e coerência do experimento com a parte analítica.Os dados da velocidade coincidem com o valor de tabela,a força aplicada é próxima com a fornecida pelo programa assim como as pressões dinâmicas.
+ Com a velocidade básica do vento,tambem foi possível calcular o número de Reynolds para efeito de estudo do escoamento juntamente com os vídeos dispostos na parte 3 deste estudo.
+ 
+ 
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
