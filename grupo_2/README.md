@@ -307,16 +307,17 @@ Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados
 
 ![pressdin](pressdin.gif)
 
-Os dados coletados em laboratório, tais como as dimensões do corpo e a velocidade do escoamento foram dispostas em duas tabelas, juntamente com os seus respectivos erros.Para obtenção das velocidades foi utilizado um anemômetro que foi devidamente calibrado com área da seção transversal e ajustado tambem com a temperatura local.Com isso, foram obtidos três valores de velocidade, cada qual com seu respectivo erro.
+Com a pressão dinâmica, a área a ser considerada que é facilmente obtida através das dimensões do próprio corpo e o coeficiente de arrasto que é dado pelo software Cyclone, foi possível calcular a força atuante no corpo devido o escoamento.
 
-Figura 11-Tabela de dimensões do corpo de prova.
- 
- ![dimcop](dimcop.jpg)
- 
- Figura 12-Tabela de velocidades.
+![facalc](facalc.gif)
+
+Os dados coletados em laboratório, tal como a velocidade do escoamento foram dispostas em duas tabelas, juntamente com os seus respectivos erros.Para obtenção das velocidades foi utilizado um anemômetro que foi devidamente calibrado com área da seção transversal e ajustado tambem com a temperatura local.Com isso, foram obtidos três valores de velocidade, cada qual com seu respectivo erro.
+
+ Figura 11-Tabela de velocidades.
  
  ![velk](velk.jpg)
  
+ Com os dados experimentais, os cálculos da pressão dinâmica foram refeitos juntamente com a força de arrasto.A velocidade básica do vento obtida no túnel de vento foi multiplicada por um fator de 2,5 e as dimensões foram multiplicadas por um fator de 10 por motivos de compatibilidade com o programa.Desta forma:
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
