@@ -305,7 +305,7 @@ Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados
 
 ![vacarac](vcarac.gif)
 
-![pressdin](pressdin.gif)
+![pressdin](pdatt.gif)
 
 Com a pressão dinâmica, a área a ser considerada que é facilmente obtida através das dimensões do próprio corpo e o coeficiente de arrasto que é dado pelo software Cyclone, foi possível calcular a força atuante no corpo devido o escoamento.
 
