@@ -162,7 +162,7 @@ Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
   
   - ![Teste de legenda de imagem 16](u%20laminar1.gif)
   - ![Teste de legenda de imagem 17](u%20transiente.gif)
-  - ![Teste de legenda de imagem 18](u%20turbolento1.gif)
+  - ![Teste de legenda de imagem 18](u%20turbulento1.gif)
   
 Com os dados calculados a partir do experimento e já tabelados é possível calcular no número de Reynolds para cada um dos regimes utilizando a formula ![Teste de legenda de imagem 19](44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif), com isso temos:
   
