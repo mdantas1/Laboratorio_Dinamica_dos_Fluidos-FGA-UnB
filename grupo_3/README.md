@@ -92,5 +92,31 @@ Vazão: 0,00167 metros cúbicos por segundo
 Pressão na Entrada: 20,58 kPa
 Pressão na Saída: 9,8 kPa
 
+# 7. Análise e conclusão:#
 
+Integrantes do grupo;
+•	Vitor Rodrigues Rossi - 14/0066632
+•	Matheus Lino do Amaral - 14/0155457
+•	Danilo Marinho - 18/0136313
+# •	Apresentação dos dados medidos no experimento com seu respectivo erro experimental; #
+Diâmetro da placa de orifício: 0,060 metros 
+Vazão: 0,00167 metros cúbicos por segundo 
+Pressão na Entrada: 20,58 kPa
+Pressão na Saída: 9,8 kPa
+# •	Comparação dos resultados com a teoria envolvida; #
+Partindo da equação de Bernoulli da continuidade, considerando toda a tubulação no mesmo nível e a perda de carga devido ao estrangulamento do diâmetro temos: 
+Equação 1
+
+Considerando vazão constante, temos:
+Equação 2
+
+Consequentemente encontramos a velocidade 2:
+Equação 3
+Com a velocidade 2 é possível encontrar a velocidade 1 e a vazão:
+Equação 4 e Equação 5
+
+O fator k é determinado pela razão entre os diâmetros da tubulação e do estrangulamento. O que nos deu um valor de 0,48. Utilizando os dados de pressão e diâmetros coletados no experimento, temos que Q = 0,00121 m3/s.
+O valor teórico foi próximo dos 0,00167 m3/s  aferidos na bancada de hidráulica. Uma das causas do erro é a dificuldade na medição da pressão, pois o manômetro da bancada apresentava uma oscilação considerável.
+# •	Conclusões do experimento; # 
+Portanto, com base nos dados apresentados, o objetivo proposto pelo grupo foi alcançado e não houve discrepância significativa com os dados encontrados de acordo com a teoria. Os resultados foram calculados com os dados coletados de acordo com os Princípios de Bernoulli e da Continuidade.Considerando os pequenos erros experimentais o objetivo do experimento foi atigindo de acordo com a teoria ministrada na materia de dinamica dos fluidos.
 
