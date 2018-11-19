@@ -74,7 +74,7 @@ Integrantes do grupo:
 
  # 6.2. Divisão de tarefas: #
 Como especificado na etapa anterior, não ocorreu mudança na divisão de tarefas. Membro do grupo responsável pelo procedimento de montagem e execução: Todos os integrantes do grupo serão responsáveis pela montagem e execução do experimento; Todos os integrantes também serão responsáveis pela confecção dos relatórios; 
-6.3. Descrição dos procedimentos realizados:
+# 6.3. Descrição dos procedimentos realizados:#
 A figura 01 representa a bancada em que foi realizado o experimento. Não foi necessário montar nada. Todos os itens utilizados nas medições já estavam instalados na bancada. 
 Os itens são: 
 1) bomba elétrica de água;
@@ -92,7 +92,7 @@ Vazão: 0,00167 metros cúbicos por segundo
 Pressão na Entrada: 20,58 kPa
 Pressão na Saída: 9,8 kPa
 
-# 7. Análise e conclusão:#
+# 7. Análise e conclusão: #
 Integrantes do grupo;
 •	Vitor Rodrigues Rossi - 14/0066632
 •	Matheus Lino do Amaral - 14/0155457
@@ -119,5 +119,5 @@ Equação 4 e Equação 5
 O fator k é determinado pela razão entre os diâmetros da tubulação e do estrangulamento. O que nos deu um valor de 0,48. Utilizando os dados de pressão e diâmetros coletados no experimento, temos que Q = 0,00121 m3/s.
 O valor teórico foi próximo dos 0,00167 m3/s  aferidos na bancada de hidráulica. Uma das causas do erro é a dificuldade na medição da pressão, pois o manômetro da bancada apresentava uma oscilação considerável.
 # •	Conclusões do experimento; # 
-Portanto, com base nos dados apresentados, o objetivo proposto pelo grupo foi alcançado e não houve discrepância significativa com os dados encontrados de acordo com a teoria. Os resultados foram calculados com os dados coletados de acordo com os Princípios de Bernoulli e da Continuidade.Considerando os pequenos erros experimentais o objetivo do experimento foi atigindo de acordo com a teoria ministrada na materia de dinamica dos fluidos.
+Portanto, com base nos dados apresentados, o objetivo proposto pelo grupo foi alcançado e não houve discrepância significativa com os dados encontrados de acordo com a teoria. Os resultados foram calculados com os dados coletados de acordo com os Princípios de Bernoulli e da Continuidade.Considerando os pequenos erros experimentais o objetivo do experimento foi atigido de acordo com a teoria ministrada na materia de dinamica dos fluidos.
 
