@@ -125,7 +125,7 @@ O resultado dessa equação apresenta a característica do regime do fluído.
     
   ### 3.3 Dados medidos
   
-    Na realização do experimento três regimes foram observados, turbulento, transiente e laminar, com isso para cada regime foi deixado o sistema aberto por 60 segundos e medido o volume de água vazado duranto o tempo. Utilizando a formula:
+Na realização do experimento três regimes foram observados, turbulento, transiente e laminar, com isso para cada regime foi deixado o sistema aberto por 60 segundos e medido o volume de água vazado duranto o tempo. Utilizando a formula:
     
 ![Teste de legenda de imagem 4](q%3Dvolt.gif)
 sendo o valor da área:
@@ -155,17 +155,21 @@ Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
   
   Sabendo os seguintes dados, já tabelados:
   - ![Teste de legenda de imagem 12](ro.gif)
-  - ![Teste de legenda de imagem 13](mi.jpg)
-  - ![Teste de legenda de imagem 14](diametro.jpg)
+  - ![Teste de legenda de imagem 13](mi.gif)
+  - ![Teste de legenda de imagem 14](diametro.gif)
   
-  e calculando a velocidade do fluido pela relação ![Teste de legenda de imagem 15](velocidade.jpg), teremos as seguintes velocidade para cada tipo de fluído
+  e calculando a velocidade do fluido pela relação ![Teste de legenda de imagem 15](velocidade.gif), teremos as seguintes velocidade para cada tipo de fluído
   
   - ![Teste de legenda de imagem 16](u%20turbulento.gif)
   - ![Teste de legenda de imagem 17](u%20transiente.gif)
   - ![Teste de legenda de imagem 18](u%20laminar.gif)
   
+  Com os dados calculados a partir do experimento e já tabelados é possível calcular no número de Reynolds para cada um dos regimes utilizando a formula ![Teste de legenda de imagem 19](44637212-51ed0600-a986-11e8-8ced-6d8ad95a0465.gif), com isso temos:
+  
+  - ![Teste de legenda de imagem 20](retur.gif)
+  - ![Teste de legenda de imagem 21](retran.gif)
+  - ![Teste de legenda de imagem 22](relam.gif)
+  
 
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
+
 -	Conclusões do experimento;
