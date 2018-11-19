@@ -140,9 +140,6 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ## 4.	Análise e conclusão: ##
 
-
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
-
 - Integrantes do grupo
   - Thainá Rodrigues Fernandes - 14/0051724
   - Danyllo Wenceslau - 16/0117364
