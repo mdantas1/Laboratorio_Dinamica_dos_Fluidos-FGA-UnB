@@ -93,16 +93,17 @@ Pressão na Entrada: 20,58 kPa
 Pressão na Saída: 9,8 kPa
 
 # 7. Análise e conclusão:#
-
 Integrantes do grupo;
 •	Vitor Rodrigues Rossi - 14/0066632
 •	Matheus Lino do Amaral - 14/0155457
 •	Danilo Marinho - 18/0136313
+
 # •	Apresentação dos dados medidos no experimento com seu respectivo erro experimental; #
 Diâmetro da placa de orifício: 0,060 metros 
 Vazão: 0,00167 metros cúbicos por segundo 
 Pressão na Entrada: 20,58 kPa
 Pressão na Saída: 9,8 kPa
+
 # •	Comparação dos resultados com a teoria envolvida; #
 Partindo da equação de Bernoulli da continuidade, considerando toda a tubulação no mesmo nível e a perda de carga devido ao estrangulamento do diâmetro temos: 
 Equação 1
