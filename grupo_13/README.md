@@ -126,7 +126,8 @@ O resultado dessa equação apresenta a característica do regime do fluído.
   ### 3.3 Dados medidos
   
     Na realização do experimento três regimes foram observados, turbulento, transiente e laminar, com isso para cada regime foi deixado o sistema aberto por 60 segundos e medido o volume de água vazado duranto o tempo. Utilizando a formula:
-![Teste de legenda de imagem 4](Q%3DVA.gif)
+    
+![Teste de legenda de imagem 4](q%3Dvolt.gif)
 sendo o valor da área:
 ![Teste de legenda de imagem 5](A%3D000172.gif)
 Com esses valores foi possível determinar três vazões
@@ -150,10 +151,20 @@ Sendo que cada vazão gerou respectivamente os seguintes tipo de regime:
 
 ### 4.	Análise e conclusão: ###
 
+   ### 4.1 Análise ###
+  
+  Sabendo os seguintes dados, já tabelados:
+  - ![Teste de legenda de imagem 12](ro.gif)
+  - ![Teste de legenda de imagem 13](mi.jpg)
+  - ![Teste de legenda de imagem 14](diametro.jpg)
+  
+  e calculando a velocidade do fluido pela relação ![Teste de legenda de imagem 15](velocidade.jpg), teremos as seguintes velocidade para cada tipo de fluído
+  
+  - ![Teste de legenda de imagem 16](u%20turbulento.gif)
+  - ![Teste de legenda de imagem 17](u%20transiente.gif)
+  - ![Teste de legenda de imagem 18](u%20laminar.gif)
+  
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
-
--	Integrantes do grupo;
 -	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
 -	Apresentação de gráficos e sua respectiva análise;
 -	Comparação dos resultados com a teoria envolvida;
