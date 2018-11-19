@@ -326,6 +326,10 @@ Os dados coletados em laboratório, tal como a velocidade do escoamento foram di
  
  ![re01](re01.gif)
  
+### Conclusão
+
+Assim sendo, percebe-se que vários fatores influenciam no cálculo do coeficiente de arrasto, tornando relativamente complicado a obtenção de alguns fatores.De modo especial, a força aplicada devido ao escoamento foi o dado de maior dificuldade , mas com o auxílio do software Cyclone, as análises se tornaram mais fáceis uma vez que os demais dados foram medidos ou retirados da NBR-6123.
+Mesmo assim, o experimento proposto de utilizar o túnel de vento para calcular o coeficiente e a força de arrasto e, também, de visualizar as linhas de corrente foi realizado com sucesso. Os valores simulados ficaram bem próximos dos resultados calculados analiticamente e foi possível a observação com clareza das linhas de corrente contornando um objeto.
 ### REFERÊNCIAS BIBLIOGRÁFICAS
 
 -ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
