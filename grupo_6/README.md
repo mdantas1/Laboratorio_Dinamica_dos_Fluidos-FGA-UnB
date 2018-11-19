@@ -80,11 +80,38 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 4.	Análise e conclusão: ###
 
+Apresentação dos dados medidos no experimento com seu respectivo erro experimental:
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+https://user-images.githubusercontent.com/31633085/48683633-43814580-eb95-11e8-82dd-cb5aa0fd4fa9.png
 
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
--	Conclusões do experimento;
+   Em seu livro Mecânica dos Fluidos, Frank White estabelece uma correlação entre as ordens de grandeza de potência e velocidade. Sendo:
+ 
+ https://user-images.githubusercontent.com/31633085/48683850-34e75e00-eb96-11e8-9267-c80b87bba478.png
+ 
+   A partir dessa relação, com a potência do secador sendo 1200W e com os valores de velocidades medidos para diferentes ângulos em metros por segundo, foi possível realizar o seguinte cálculo:
+  
+ https://user-images.githubusercontent.com/31633085/48683887-5cd6c180-eb96-11e8-807d-93859f95ec29.png
+   
+   A velocidade calculada condiz com a que foi medida pelo anemômetro apenas a partir de 60º de inclinação entre a vela e o ângulo de ataque do escoamento do secador.
+   Os dados da Tabela estão expostos no gráfico de Velocidade média x  ngulo de ataque.
+   
+   https://user-images.githubusercontent.com/31633085/48683717-9f4bce80-eb95-11e8-9804-6ead188a52f0.png
+   
+   Considerando que o escoamento é unidirecional e laminar,  a contagem começa em 0º e vai até 90º, e os ângulos que passarem de 90º (perpendicular), podem ser contados de 90º até 0º negativo, já que as velocidades vão assumir os mesmos valores, para o outro quadrante. Pode-se observar que entre 75º e 90º há pouca diferença entre os valores medidos e o valor tende a ser constante e depois retorna ao mesmo no 0º. 
+De acordo com o gráfico, é possível ver que quanto maior o ângulo de ataque, maior é a velocidade média do escoamento, até 90º, depois diminui até 0º e praticamente até 0m/s. 
+
+Além disso, Nuno Barros e Sá, no seu artigo Física Elementar da Navegação à Vela sugere e deduz equações que possam dar a força resultante necessária para mover um veleiro. Onde o módulo da força deve ser proporcional ao momento linear do fluido que se dirige ao encontro do sólido por unidade de tempo. Sendo:
+
+https://user-images.githubusercontent.com/31633085/48683755-bee2f700-eb95-11e8-8e3f-059cada48931.png
+
+Onde  é a massa específica do escoamento, A é a área da vela (folha)  e v, a velocidade do escoamento ao quadrado. 
+
+Usando tal dedução, foi possível calcular a força que o escoamento do secador fez na folha e prever seu comportamento. O gráfico a seguir mostra os módulos da força calculada para cada velocidade medida em cada angulação. Sendo:
+
+https://user-images.githubusercontent.com/31633085/48683784-e1751000-eb95-11e8-9aab-5b6740bea4b2.png
+
+É fácil observar que, conforme a angulação aumenta, a velocidade média do ar e a força de sustentação na vela também aumentam.
+
+   Conclusão.
+   O movimento de barcos à vela é bastante estudado hoje para melhorar e tornar mais eficiente a transformação da energia que chega em forma de escoamento (vento) em força e trabalho para movimentar o barco. O experimento tinha como objetivo explorar a relação que existe entre força, velocidade, massa específica, área de contato e ângulo de ataque do vento na vela. 
+	De acordo com dados obtidos, cálculos e gráficos, foi possível realizar um estudo que prevê o comportamento de barcos à vela, concluindo que a força que move o barco  quanto maior o ângulo de ataque, até 90º e maior a área da vela, maior é a velocidade do escoamento e maior a força que ele realiza no sólido, e o torna capaz de mover um objeto de massa cada vez maior. 
