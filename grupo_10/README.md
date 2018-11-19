@@ -156,6 +156,7 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
     ![](https://latex.codecogs.com/gif.latex?%5C%5C%20Cd%20%3D%20%5Cfrac%7BQ_%7Brotametro%7D%7D%7BQ_%7Bteorica%7D%7D%20%5C%5C%5C%5C%20Q_%7Brotametro%7D%20%3D%203900%20LPH%5C%5C%20Q_%7Brotametro%7D%20%3D%201%2C0833.10%5E%7B-3%7D%20m%B3/s%5C%5C%20%5C%5C%20Cd%20%3D%20%5Cfrac%7B1%2C747889129.10%5E%7B-4%7D%7D%7B1%2C0833.10%5E%7B-3%7D%7D%20%5C%5C%20Cd%20%3D%200%2C1613)
  
 -	Comparação dos resultados com a teoria envolvida;
+
     A demonstração do princípio de Bernoulli neste experimento utilizou um tubo de venturi, que possibilita a medição da velocidade do escoamento e vazão do líquido dentro do tubo através da diferença de pressão causada pela variação geométrica do aparato. Dessa forma, a aplicação do teorema de Bernoulli em trechos diferentes do sistema, deve retornar valores que comprovem que há um continuidade de massa, ou seja, em todos os pontos do tubo, a pressão e a velocidade do fluido se ajustam de forma a retornar uma mesma taxa de vazão.
     
 -	Conclusões do experimento;
