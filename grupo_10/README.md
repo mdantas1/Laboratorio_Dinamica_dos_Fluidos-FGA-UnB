@@ -105,23 +105,81 @@ O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo nes
 
 ### 3.	Execução: ###
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 04/11/2018**, contendo os seguintes tópicos:
-
 - Integrantes do grupo;
-- Divisão de tarefas, conforme descrito na etapa 2. Se houver mudança em relação à etapa 2, uma justificativa deverá ser apresentada;
-- Descrição dos procedimentos realizados, onde deverão ser apresentados:
-  - Fotos do experimento montado;
-  - Descrição de cada procedimento executado e justificativa, se houver diferença com a etapa 2;
-  - Dados medidos;
+  - Thainá Rodrigues Fernandes - 14/0051724
+  - Danyllo Wenceslau - 16/0117364
+  - Giulliano Cezar - 13/0027260
+  
+- Divisão de tarefas:
 
+  Para a execução do experimento todos os membros estiveram presentes.
+  
+- Fotos do experimento montado;
+  
+    ![Imagem 1](bancada1.jpg)
+    
+    ![teste_imagem](bancada2.jpg)
+    
+    ![teste_imagem](bancada3.jpg)
+    
+    A demonstração do princípio de Bernoulli neste experimento utilizará um tubo de venturi, que possibilita a medição da velocidade do escoamento e vazão do líquido dentro do tubo através da diferença de pressão causada pela variação geométrica do aparato. Dessa forma, a aplicação do teorema de Bernoulli em trechos diferentes do sistema, deverá retornar valores que comprovem que há um continuidade de massa, ou seja, em todos os pontos do tubo, a pressão e a velocidade do fluido se ajustam de forma a retornar uma mesma taxa de vazão.
+     
+     Para calcular o coeficiente de descarga é necessário calcular a vazão volumétrica teórica. O que pode ser feito por meio da equação de Bernoulli. ![](https://latex.codecogs.com/gif.latex?P_%7B1%7D%20/%5Cgamma%20&plus;%20V_%7B1%7D%5E%7B2%7D/2g%20&plus;%20z_%7B1%7D%20%3D%20P_%7B2%7D%20/%5Cgamma%20&plus;%20V_%7B2%7D%5E%7B2%7D/2g%20&plus;%20z_%7B2%7D)
+     
+    A partir desta, a velocidade do fluido pode ser encontrada, no tubo (ponto 1) e na garganta (ponto 2).
 
-### 4.	Análise e conclusão: ###
+    ![Imagem 1](tubo.png)
 
+    A velocidade no ponto 1 multiplicada pela área do tubo nesse ponto é igual a velocidade no ponto 2 multiplicada pela área da garganta. Esse valor é a vazão volumétrica teórica.
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+    O coeficiente de descarga é a razão entre a vazão teórica e a vazão do rotâmetro, que foi medida experimentalmente.
+     
+    ![Imagem 1](calculo1.jpg)
+    
+    ![Imagem 1](calculo2.jpg)
 
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
+## 4.	Análise e conclusão: ##
+
+- Integrantes do grupo
+  - Thainá Rodrigues Fernandes - 14/0051724
+  - Danyllo Wenceslau - 16/0117364
+  - Giulliano Cezar - 13/0027260
+  
+- #### _Resultados_
+
+    | Medição 	| Vazão (LPH) 	| \Delta P (mCa) 	|
+    |:-------:	|:-----------:	|:--------------:	|
+    |    1    	|     3400    	|      0,83      	|
+    |    2    	|     3500    	|      0,84      	|
+    |    3    	|     3300    	|      0,79      	|
+    |  média  	|     3400    	|      0,82      	|
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20d1%20%3D%2065%20mm%20%3D%200%2C065%20m%5C%5C%20d2%20%3D%2025%20mm%20%3D%200%2C025%20m%5C%5C%20%5Crho%20%3D%201000%20kg/m3%5C%5C%20g%20%3D%209%2C81%20m/s%5C%5C)
+    
+    Pela equação da continuidade
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20Q%20%3D%20A_%7B1%7Dv_%7B1%7D%20%3D%20A_%7B2%7Dv_%7B2%7D%5C%5C%20v2%20%3D%20%5Cfrac%7BA_%7B1%7Dv_%7B1%7D%7D%7BA_%7B2%7D%7D%5C%5C)
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20Q%20%3D%203400%20LPH%20%3D%209%2C4.10%5E%7B-4%7D%5C%5C%20A1%20%3D%2010A2%5C%5C%20%5CDelta%20P%20%3D%200%2C082mCa%20%3D%20804%2C12%20Pa)
+    
+    Pela equação de Bernoulli
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20%5Cfrac%7B%5Crho%20v_%7B1%7D%5E2%7D%7B2%7D%20&plus;%20%5Crho.g.h%20&plus;%20P_%7B1%7D%20%3D%20%5Cfrac%7B%5Crho%20v_%7B2%7D%5E2%7D%7B2%7D%20&plus;%20%5Crho.g.h%20&plus;%20P_%7B2%7D%20%5C%5C%20h1%20%3D%20h2%20%5C%5C%20P_%7B1%7D-%20P_%7B2%7D%20%3D%20%5CDelta%20P%20%3D%20%5Cfrac%7B%5Crho%28v_%7B2%7D%5E2%20-%20v_%7B1%7D%5E2%29%7D%7B2%7D)
+    
+    Aplicando continuidade
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20%5CDelta%20P%20%3D%20%5Cfrac%7B%5Crho%7D%7B2%7D%5B%28%5Cfrac%7BA1v1%7D%7BA2%7D%29%5E%7B2%7D%20-%20v_%7B1%7D%5E%7B2%7D%5D%20%5C%5C%20%5CDelta%20P%20%3D%20%5Cfrac%7B%5Crho%7D%7B2%7D%20v_%7B1%7D%5E%7B2%7D%28%5Cfrac%7BA_%7B1%7D%5E%7B2%7D%7D%7BA_%7B2%7D%5E%7B2%7D%7D%20-%201%29%20%5C%5C%20804%2C12%20Pa%20%3D%20%5Cfrac%7B1000%7D%7B2%7Dv_%7B1%7D%5E%7B2%7D%28100%20-1%29%5C%5C%20v_%7B1%7D%5E%7B2%7D%20%3D%20%5Cfrac%7B804%2C12*2%7D%7B1000*99%7D%5C%5C%20v_%7B1%7D%20%3D%20%5Csqrt%7B0%2C01624%7D%5C%5C%20v_%7B1%7D%20%3D%200%2C127%20m/s%5C%5C%20%5C%5C%20v_%7B2%7D%20%3D%20%5Cfrac%7B10A_%7B2%7D%7D%7BA_%7B2%7D%7D*%200%2C127%5C%5C%20v_%7B2%7D%20%3D%201%2C27%20m/s)
+    
+    Encontrando as áreas
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20Q%20%3D%209%2C4*10%5E%7B4%7D%20m%5E%7B3%7D/s%5C%5C%209%2C4*10%5E%7B-4%7D%20%3D%20A_%7B2%7D*1%2C27%5C%5C%20A_%7B2%7D%20%3D%207%2C40*10%5E%7B-4%7D%20m%5E%7B2%7D%5C%5C%20A_%7B1%7D%20%3D%2010*A_%7B2%7D%20%3D%207%2C40*10%5E%7B-3%7D)
+    
+    Coeficiente de descarga
+    
+    ![](https://latex.codecogs.com/gif.latex?%5C%5C%20Cd%20%3D%20%5Cfrac%7BQ_%7Brotametro%7D%7D%7BQ_%7Bteorica%7D%7D%20%5C%5C%5C%5C%20Q_%7Brotametro%7D%20%3D%203400%20LPH%5C%5C%20Q_%7Brotametro%7D%20%3D%209%2C4*10%5E%7B-4%7D%20m%B3/s%5C%5C%20%5C%5C%20V_%7B1%7DA_%7B1%7D%20%3D%209%2C398*10%5E%7B-4%7D%20m%B3/s%5C%5C%20V_%7B2%7DA_%7B2%7D%20%3D%209%2C398*10%5E%7B-4%7D%20m%B3/s%5C%5C%20Cd%20%3D%20%5Cfrac%7B9%2C4*10%5E%7B-4%7D%7D%7B9%2C398*10%5E%7B-4%7D%20m%B3/s%7D%20%5C%5C%20Cd%20%3D%201%2C002128)
+ 
 -	Conclusões do experimento;
+
+    Como dito anteriormente, neste experimento utilizou-se um tubo de venturi, que possibilita a medição da velocidade do escoamento e vazão do líquido dentro do tubo através da diferença de pressão causada pela variação geométrica do aparato. Dessa forma, a aplicação do teorema de Bernoulli em trechos diferentes do sistema, deve retornar valores que comprovem que há um continuidade de massa, ou seja, em todos os pontos do tubo, a pressão e a velocidade do fluido se ajustam de forma a retornar uma mesma taxa de vazão.
+    
+    O resultado obtido para o coeficiente de descarga foi 1,002128. Um resultado muito próximo do previsto na literatura, o que pode ser explicado pelo fato do experimento ter sido realizado de forma eficaz. É possível concluir que quanto maior o coeficiente de descarga, menores são os erros relativos. 

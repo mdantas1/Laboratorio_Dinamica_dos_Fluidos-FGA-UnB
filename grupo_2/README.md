@@ -283,3 +283,56 @@ Foi necessário mudança do corpo de prova e do túnel de vento, para se consegu
 
 -Responsável:Todos
 Este procedimento foi realizado junto com os procedimentos anteriores, e a partir disso foi analisado a validade dos resultados e a necessidade de refazer ou não o experimento.
+
+## Relatório 04-Grupo 02
+
+### Integrantes
+- Richad S. F. de Souza - 14/0091793
+- Luyza Lorenna L. Lopes - 16/0135133
+- Matheus de Avila Mariano - 16/0137896
+
+
+Como dito anteriormente, para poder calcular o coeficiente arrasto para o corpo de prova foi necessário a obtenção de algumas medidas dentre elas a velocidade, área do corpo e área da seção transversal do túnel de vento para calibrar corretamente o anemômetro.Como o estudo que está sendo feito baseia se principalmente na NBR-6123/1988, boa parte dos parâmetros foram tirados das tabelas da norma tais como a velocidade básica do vento, os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif).
+Para os parâmetros ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), foi obtido os seguintes resultados através da consultas nas respectivas tabelas dispostas na parte 3 deste estudo.Assim:
+
+![sval](sval.gif)
+
+Dos três parâmetros obtidos acima, o parâmetro ![s2](s22.gif) é dado por uma expressão já citada na parte anterior deste estudo.Esta expressão, por sua vez, tem seus valores compilados na tabela de Parâmetros Meteorológicos.
+
+![s2calc](s2calc.gif)
+
+Apartir dos valores ![s1](s1.gif),![s2](s22.gif) e![s3](s3.gif), são calculados também a velocidade característica e a pressão dinâmica.
+
+![vacarac](vcarac.gif)
+
+![pressdin](pdatt.gif)
+
+Com a pressão dinâmica, a área a ser considerada que é facilmente obtida através das dimensões do próprio corpo e o coeficiente de arrasto que é dado pelo software Cyclone, foi possível calcular a força atuante no corpo devido o escoamento.
+
+![facalc](faatt.gif)
+
+Os dados coletados em laboratório, tal como a velocidade do escoamento foram dispostas em duas tabelas, juntamente com os seus respectivos erros.Para obtenção das velocidades foi utilizado um anemômetro que foi devidamente calibrado com área da seção transversal e ajustado tambem com a temperatura local.Com isso, foram obtidos três valores de velocidade, cada qual com seu respectivo erro.
+
+ Figura 11-Tabela de velocidades.
+ 
+ ![velk](velk.jpg)
+ 
+ Com os dados experimentais, os cálculos da pressão dinâmica foram refeitos juntamente com a força de arrasto.A velocidade básica do vento obtida no túnel de vento foi multiplicada por um fator de 2,5 e as dimensões foram multiplicadas por um fator de 10, por motivos de compatibilidade com o programa.Desta forma:
+ 
+ ![refa](refa.gif)
+ 
+ Comparando os respectivos valores, nota-se certa proximidade e coerência do experimento com a parte analítica.Os dados da velocidade coincidem com o valor de tabela,a força aplicada é próxima com a fornecida pelo programa assim como as pressões dinâmicas.
+ Com a velocidade básica do vento,tambem foi possível calcular o número de Reynolds para efeito de estudo do escoamento juntamente com os vídeos dispostos na parte 3 deste estudo.Assim:
+ 
+ ![re01](re01.gif)
+ 
+### Conclusão
+
+Assim sendo, percebe-se que vários fatores influenciam no cálculo do coeficiente de arrasto, tornando relativamente complicado a obtenção de alguns fatores.De modo especial, a força aplicada devido ao escoamento foi o dado de maior dificuldade , mas com o auxílio do software Cyclone, as análises se tornaram mais fáceis uma vez que os demais dados foram medidos ou retirados da NBR-6123.
+Mesmo assim, o experimento proposto de utilizar o túnel de vento para calcular o coeficiente e a força de arrasto e, também, de visualizar as linhas de corrente foi realizado com sucesso. Os valores simulados ficaram bem próximos dos resultados calculados analiticamente e foi possível a observação com clareza das linhas de corrente contornando um objeto.
+### REFERÊNCIAS BIBLIOGRÁFICAS
+
+-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.NBR 6123:Forças devidas ao vento em edificações.Rio de Janeiro,66p.1988. 
+
+-FOX, Robert; MCDONALD, Alan; PRITCHARD, Philip. Introdução à mecânica dos fluidos. 8 ed. São Paulo: LTC, 2014. 884 p.
+

@@ -3,6 +3,79 @@
   - Gabriel Casari - 13/0009091
   - Bruno Martins - 14/0017682
   - Letícia Dias - 14/0149414
+# RELATÓRIO 4 - GRUPO 9 #
+# Integrantes do grupo; #
+- Gabriel Casari - 13/0009091
+- Bruno Martins - 14/0017682
+- Letícia Dias - 14/0149414
+
+ 
+# Apresentação dos dados medidos no experimento com seu respectivo erro experimental; #
+ O experimento de carga realizado por bancada feita de maneira artesanal, utilizando tubulações PVC 1/2’’, junções e pontos de verificação de medida, seguiu o comportamento esperado, demonstrando perda de carga ao decorrer da tubulação e com as devidas variações verificadas nos pontos de medição.
+ 
+ ![sistema](https://user-images.githubusercontent.com/42454195/48678154-8546c780-eb66-11e8-9802-81a4b1f8346f.jpeg)
+ 
+ 
+ Os dados obtidos no processo experimental estão apresentados abaixo, as medidas são as médias das medições. Para as medições aguardou-se que o comportamento do sistema estivesse estabilizado a fim de reduzir variações inerentes ao experimento
+ - Vazão: 0,0002127m3/s;
+ - Comprimento Total (reto): = 1,80m;
+ - Comprimento com Curvas: 2,25m (tubulação);
+ - 8 joelhos PVC;
+ - Diâmetro da Tubulação = 1/2’’;
+
+Ponto 01:
+ - Distância do Início = 15cm (tubulação);
+ - Altura Média Medida: 22,5cm;
+ - Erro de Trena: +-1mm;
+ 
+ ![tubo1](https://user-images.githubusercontent.com/42454195/48678156-8aa41200-eb66-11e8-84d4-5765c8cde39e.jpeg)
+
+Ponto 02:
+ - Distância do Início = 135cm (tubulação)
+ - Altura Média Medida: 11cm
+ - Erro de Trena: +-1mm
+ 
+ ![tubo2](https://user-images.githubusercontent.com/42454195/48678159-8e379900-eb66-11e8-85c8-26d6bdb8f0ff.jpeg)
+
+
+Ponto 03:
+ - Distância do Início = 2,10m (tubulação)
+ - Altura Média Medida: 0,0cm
+ - Erro de Trena: +-1mm
+ - DeltaH(1,2) = 11,5cm
+ - DeltaH(2,3) = 11cm
+A pressão no Ponto 03 não foi suficiente para que a água ficasse na parte aparente da tubulação transparente, devido às perdas de carga durante o escoamento da água.
+
+![tubo3](https://user-images.githubusercontent.com/42454195/48678160-97c10100-eb66-11e8-9069-dd45f507a667.jpeg)
+
+# Comparação dos resultados com a teoria envolvida;  #
+ No segundo relatório foi levantado uma metodologia de cálculo de perda de carga que não pode ser aplicado ao experimento realizado, devido pela falta dos dados de pressão de entrada e de saída. Porém, outra metodologia de cálculo pode ser feita, a equação de Darcy-Weisbach. 
+ 
+ - ![capturar](https://user-images.githubusercontent.com/42454195/48678052-246abf80-eb65-11e8-9bfb-d0e66bdd2929.JPG)
+ 
+ - ![codecogseqn 7](https://user-images.githubusercontent.com/42454195/48678235-ac51c900-eb67-11e8-89b5-884c7f511f71.gif) = perda de carga ao longo do comprimento do tubo (mca);
+ 
+ - ![codecogseqn 8](https://user-images.githubusercontent.com/42454195/48678256-f8047280-eb67-11e8-937f-08918f7e113a.gif) = fator de atrito de Darcy-Weisbach (adimensional);
+ 
+ - ![codecogseqn 9](https://user-images.githubusercontent.com/42454195/48678270-3dc13b00-eb68-11e8-9164-86b6eab568f4.gif) = comprimento do tubo (m);
+ 
+ - ![codecogseqn 10](https://user-images.githubusercontent.com/42454195/48678286-5b8ea000-eb68-11e8-9ad4-cfcbce9b19a8.gif) = velocidade do líquido no interior do tubo (m/s);
+ 
+ - ![codecogseqn 11](https://user-images.githubusercontent.com/42454195/48678305-a90b0d00-eb68-11e8-9114-dd5cb47d69a5.gif) = diâmetro interno do tubo (m);
+ 
+ - ![codecogseqn 13](https://user-images.githubusercontent.com/42454195/48678314-ca6bf900-eb68-11e8-8381-d9a1ca52ba12.gif) = aceleração da gravidade local (m/s2);
+ 
+ - ![codecogseqn 14](https://user-images.githubusercontent.com/42454195/48678391-eb811980-eb69-11e8-9b80-2f6bd1942ae0.gif) = rugosidade (ε, mm);
+
+ - ![codecogseqn 15](https://user-images.githubusercontent.com/42454195/48678405-21be9900-eb6a-11e8-869d-49198c1f2e56.gif) = número de Reynolds;
+
+Resultados:
+
+![resultados](https://user-images.githubusercontent.com/42454195/48678519-934b1700-eb6b-11e8-8e55-dd195b62185f.JPG)
+
+ # Conclusões do experimento; #
+ As medições realizadas durante o experimento tiveram comportamento esperado, mostrando a redução nas alturas nos pontos de verificação, além de ser possível avaliar o comportamento e da influência das curvas para projetos futuros.
+ Esse sistema pode ser considerado análogo a tubulações de água subterrâneas ou de transporte de fluidos, mostrando assim a necessidade de um sistema de bombeamento. Para se dimensionar o sistema de bombeamento seria preciso conhecer todo o trajeto que o fluido irá percorrer, assim como na bancada montada, e a quantidade de saídas de águas para que a perda de carga seja calculada da forma mais minuciosa e não havendo faladas no sistema.
 
 # RELATÓRIO 3 - GRUPO 9 #
 

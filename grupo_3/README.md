@@ -64,5 +64,61 @@ Integrantes do grupo:
 ⦁	Obter a diferença de pressão;
 ⦁	Obter a vazão;
 
+# 6. Execução: #
 
+# 6.1. Integrantes do grupo: #
+
+●	Danilo Marinho - 18/0136313
+●	Matheus Lino do Amaral - 14/0155457
+●	Vitor Rodrigues Rossi - 14/0066632
+
+ # 6.2. Divisão de tarefas: #
+Como especificado na etapa anterior, não ocorreu mudança na divisão de tarefas. Membro do grupo responsável pelo procedimento de montagem e execução: Todos os integrantes do grupo serão responsáveis pela montagem e execução do experimento; Todos os integrantes também serão responsáveis pela confecção dos relatórios; 
+# 6.3. Descrição dos procedimentos realizados:#
+A figura 01 representa a bancada em que foi realizado o experimento. Não foi necessário montar nada. Todos os itens utilizados nas medições já estavam instalados na bancada. 
+Os itens são: 
+1) bomba elétrica de água;
+2) Tubulação com válvulas na entrada e saída;
+3) Manômetro analógico;
+4) Medidor de vazão analógico;
+5) Conjunto Placa de orifício;
+
+Primeiramente, o integrante Matheus verificou a configuração das válvulas da bancada (retângulo 2 da figura). Como a bancada possui mais de um experimento em seu sistema, é necessário direcionar o fluxo de água para o encanamento do respectivo experimento. Feito isso o integrante Danilo ligou a bomba de água do sistema usando o interruptor da bancada (retângulo 1 da figura) e em seguida, abriu o registro para permitir o escoamento de água através da tubulação. Com a água fluindo, o integrante Vitor certificou que não existe ar na tubulação da placa de orifício para medir a pressão, pois interfere nos valores. A pressão foi medida antes e depois da placa de orifício(retângulo 5 da figura) usando um manômetro analógico. Os piezômetros dispostos na bancada não foram usados pois apresentavam grande quantidade de ar e alta variação de medição. Por fim, o integrante Danilo mediu os diâmetros da tubulação e da placa de orifício usando um paquímetro digital e o integrante Mateus coletou os dados de vazão mostrado no medidor de vazão analógico (retângulo 3 da figura) presente na bancada. Por fim, a bomba de água da bancada foi desligada. 
+
+Obteve-se a pressão antes e depois da placa de orifício e a vazão experimental de água como exemplificado na figura 02.
+
+ # Dados medidos: #
+Diâmetro da placa de orifício: 0,0603 metros
+Vazão: 0,00167 metros cúbicos por segundo
+Pressão na Entrada: 20,58 kPa
+Pressão na Saída: 9,8 kPa
+
+# 7. Análise e conclusão: #
+Integrantes do grupo;
+•	Vitor Rodrigues Rossi - 14/0066632
+•	Matheus Lino do Amaral - 14/0155457
+•	Danilo Marinho - 18/0136313
+
+# •	Apresentação dos dados medidos no experimento com seu respectivo erro experimental; #
+Diâmetro da placa de orifício: 0,060 metros 
+Vazão: 0,00167 metros cúbicos por segundo 
+Pressão na Entrada: 20,58 kPa
+Pressão na Saída: 9,8 kPa
+
+# •	Comparação dos resultados com a teoria envolvida; #
+Partindo da equação de Bernoulli da continuidade, considerando toda a tubulação no mesmo nível e a perda de carga devido ao estrangulamento do diâmetro temos: 
+Equação 1
+
+Considerando vazão constante, temos:
+Equação 2
+
+Consequentemente encontramos a velocidade 2:
+Equação 3
+Com a velocidade 2 é possível encontrar a velocidade 1 e a vazão:
+Equação 4 e Equação 5
+
+O fator k é determinado pela razão entre os diâmetros da tubulação e do estrangulamento. O que nos deu um valor de 0,48. Utilizando os dados de pressão e diâmetros coletados no experimento, temos que Q = 0,00121 m3/s.
+O valor teórico foi próximo dos 0,00167 m3/s  aferidos na bancada de hidráulica. Uma das causas do erro é a dificuldade na medição da pressão, pois o manômetro da bancada apresentava uma oscilação considerável.
+# •	Conclusões do experimento; # 
+Portanto, com base nos dados apresentados, o objetivo proposto pelo grupo foi alcançado e não houve discrepância significativa com os dados encontrados de acordo com a teoria. Os resultados foram calculados com os dados coletados de acordo com os Princípios de Bernoulli e da Continuidade.Considerando os pequenos erros experimentais o objetivo do experimento foi atigido de acordo com a teoria ministrada na materia de dinamica dos fluidos.
 

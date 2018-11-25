@@ -95,8 +95,7 @@ https://user-images.githubusercontent.com/42424593/44637994-eb1e1b80-a98a-11e8-9
  
   O efeito Bernoulli baseia-se na observação de que com a movimentação do ar, a pressão do mesmo diminui, então, partindo-se desta         ideia, é esperado que a bolinha se mantenha flutuando no fluxo de ar do secador, pois o secador provocará um fluxo de ar com             velocidade maior que o ar da vizinhança (ar ambiente), propiciando uma pressão menor e o ar ascendente será suficiente para manter a     bolinha em suspensão. A bolinha se manterá ao centro deste fluxo, visto que a pressão do ar mais lento, o ar periférico do fluxo, a     forçará a se manter no ponto onde a pressão é menor, ou seja, no centro do fluxo.
   
-  
-  
+
  # 3. Execução: #
   
   ## 3.1 Materiais utilizados: ##
@@ -172,8 +171,91 @@ Foram feitas com o auxílio do anemômetro 3 medições de velocidade, temperatu
 
 A terceira medição de velocidade não houve precisão, tendo valores aleatórios e inconsistentes, sendo assim, não foi coletado dado algum dessa parte. Também é possível observar que nos dados com o ar quente (temperaturas 2 e 3) ocorreu uma certa imprecisão entre a primeira medida e as duas últimas.
 
+
+=======
+# 4. Análise: #
+
+Primeiramente foi tirado a média dos valores definidos nas tabelas acima, então foi realizado uma análise dos motivos das variações de resultado para a mesma temperatura e também a variação dos dados para cada temperatura.
+
+Dados com a temperatura 1:
+	
+   Saída do secador:
+
+	velocidade de 14,43 m/s;
+	Temperatura de 25,6 C.
+
+   Na altura da bolinha:
+
+ 	velocidade de 13,64 m/s;
+	Temperatura de 24,55 C.
+
+Dados com a temperatura 2:
+
+   Saída do secador:
+
+	velocidade de 14,33 m/s;
+	Temperatura de 45,85 C.
+
+  Na altura da bolinha:
+
+ 	velocidade de 14,06 m/s;
+	Temperatura de 40,5 C.
+	
+Dados com a temperatura 3:
+
+   Saída do secador:
+
+	velocidade de 15,23 m/s;
+	Temperatura de 48,7 C.
+
+Na altura da bolinha:
+
+ 	velocidade de 14,43 m/s;
+	Temperatura de 50,35 C.
+
+Podemos observar nos dados disponíveis na tabela 1, que os valores de velocidade e temperatura variaram muito pouco dentro de uma margem aceitável.
+Na tabela 2 e 3, é possível perceber que a primeira medição de velocidade e temperatura estão desproporcionais com os dois resultados medidos em seguida. Observamos que foi possível entender que essa disparidade de valores ocorreu pois era necessário esperar um tempo para que as peças do anemômetro estabilize sua temperatura próxima a temperatura do ar, dando assim um resultado mais confiável e estável. Por esse motivo foi descartado o primeiro valor medido de todos os dados e tirado a média das duas últimas temperaturas e velocidades por estarem mais estáveis.
+
+![medicao saida](https://user-images.githubusercontent.com/42424593/48681294-bdf79880-eb88-11e8-953e-813028da209b.jpg)
+Gráfico 1: dados na saída do secador.
+
+
+![medicao bolinha](https://user-images.githubusercontent.com/42424593/48681271-9e607000-eb88-11e8-92a7-bdc942f85633.jpg)
+Gráfico 2: dados antes de passar pela bolinha.
+
+No gráfico é possível perceber que a velocidade varia de acordo com a temperatura, vemos um fenômeno onde o aumento da temperatura do ar resulta no aumento da velocidade do fluido. Isso ocorre pois as propriedades do ar varia com a temperatura, quando ar está mais quente ele fica menos denso ,ou seja as partículas se movem com maior velocidade em reação ao ar mais frio.Por isso que quando aumentamos a temperatura há uma aumento de velocidade,mesmo quando a "velocidade do secador" é a mesma,a uma diferença do  fluxo de ar com diferentes temperaturas. 
+Em relação ao teorema de Bernoulli, alguns fatos foram observados de maneira bem definida através da bolinha que se manteve em ‘equilíbrio’ meio ao fluxo de ar produzido pelo secador. Ao analisar um pouco mais afundo, pode-se constatar que a corrente de ar, tende a confinar a bolinha no fluxo e a imprimir uma força em sentido e direção contrária à força peso da mesma. 
+O efeito de manter a bolinha em equilíbrio na vertical se dá quando o fluxo de ar consegue imprimir uma força equivalente à força peso da bolinha, como se pode ver na ilustração abaixo.
+
+![ilustracao experimento](https://user-images.githubusercontent.com/42424593/48681861-32800680-eb8c-11e8-9189-3d4a23896215.jpg)
+
+Figura 6: Ilustração da força exercida na bolinha pelo fluxo de ar.
+
+Ao se observar o equilíbrio na horizontal, a análise é mais complexa, visto que a velocidade de um fluido, provoca uma menor pressão no mesmo, ou seja, no fluxo de ar, a pressão é menor que na vizinhança (o ar ambiente, ‘em repouso’), de maneira que verifica-se uma diferença de pressão e a pressão maior do ambiente, pressiona a bolinha rumo ao fluxo sempre que a mesma tende a ‘escapar’. Um outro efeito que auxilia à bolinha a se manter estável horizontalmente no fluxo, é o fato de que em uma corrente de fluido, a velocidade é maior ao centro da mesma e diminui ao se aproximar da borda.
+
+De acordo com o que foi dito anteriormente o fluxo de ar exerce uma força sobre a bolinha,logo depois há um equilíbrio entre a força do fluxo e a força da gravidade,ou seja as forças nesse momento são as mesma,calculamos a forças fazendo um simples igualdade,segue abaixo: 
+
+	F(g)=F(ar) ; Sabemos, m=276,30 mg ;G=9,78m/s² (Inmetro)
+        m . G =F(ar) ;
+ 	0,00027630. 9,78 =F(ar) ;
+	F(ar)=0,0027022  N.
+
+Agora que temos o valor da força resultante na bola,podemos calcular a pressão mais baixa da bolinha,no ponto de contato. Para afim de cálculos vamos usar a metade da área da bolinha. O diâmetro da bolinha é de aproximadamente 40,05 mm. A fórmula de pressão é P=F/A ,ou seja :
+       
+       F=0,0027022 N ,Area =2πR .
+       P=(0,0027022) /2π. (0.02) 
+       P=0,021503 Pa
+
+# 5. Conclusão #
+
+Foi observado que a diferença de pressão na parte em baixo e dos lados da bolinha, e a pressão atmosférica, causa um efeito onde a mesma fica "flutuando" no fluxo de ar podendo constatar o teorema de Bernoulli de acordo com os resultados e as análises apresentados. Também foi possível observar como a temperatura do fluído influencia na velocidade do mesmo.
+
+
+
+
   
   # Referências #
   
   [1] Verificação de equação de Bernoulli. ISEL. Lisboa. Disponível em: <https://www.academia.edu/12784703/Relat%C3%B3rio_Laboratorial_de_Mec%C3%A2nica_dos_Flu%C3%ADdos_sobre_a_Equa%C3%A7%C3%A3o_de_Bernoulli>
+ 
 

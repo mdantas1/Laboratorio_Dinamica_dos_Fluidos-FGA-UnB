@@ -285,3 +285,75 @@ NÚMERO de Reynolds. Disponível em: <http://lamon.com.br/ckfinder/userfiles/fil
 
 HOUGHTALEN, Robert J.; AKAN, A. Osman; HWANG, ‎ Ned H.c.. Engenharia hidráulica (. 4. ed. São Paulo: Pearson, 2012.
 
+
+***RELATÓRIO 4  - GRUPO 8***
+
+ ### Identificação do grupo ###
+- Beatriz Carolina - 16/0002958
+- Gustavo Saraiva - 16/0050537
+- Renato Nascimento - 16/0143551
+
+
+### Apresentação dos dados medidos no experimento com seu respectivo erro experimental ###
+ 
+ Como apresentado no ultimo relatório obtivemos os seguintes dados experimentais:
+ Para a mangueira de ½’’:
+
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 800 | 775 | 790 | 788,33 | 10,27 |7,26|
+
+Para a mangueira de ⅜” 
+
+|    Medida 1 (mL) | Medida 2 (mL) | Medida 3 (mL) | Desvio padrão | Erro Padrão |
+|------------------------|---------------------------|-----------------------|-----------------------|---------------------------|
+| 850 | 865 | 840 | 788,33 | 10,27 |7,26|
+
+Com esses dados foi possível calcular os seguintes parâmetros:
+
+A vazão para cada mangueira utilizando a relação que a vazão é o volume dividido pelo tempo:
+
+|                    |              Vazão Volumétrica (m^3/s)  |
+|------------------------|-------------------------|
+| Mangueira ½” |      0,02627         |
+ |      Mangueira ⅜”    |       0,2838         |
+ 
+A partir da vazão foi possível obter a velocidade do escoamento, dividindo a vazão pela área da secção transversal de cada mangueira:
+
+
+|                    |              Velocidade (m^2/s) |
+|------------------------|-------------------------|
+| Mangueira ½” |      207,37         |
+ |      Mangueira ⅜”    |      398,28     |
+ 
+ Com esses valores e considenrando a massa específica como 1000kg/m^3 e a viscosidade absoluta como 1.002*10^3 Pa*s  (HOUGHTALEN; AKAN; HWANG, 2012) temos os seguintes valores para os números de Reynolds:
+ 
+ 
+ |                    |   Número de Reynolds        |
+ |------------------------|-------------------------|
+ | Mangueira ½” |      2.625 x 10^6        |
+ | Mangueira  ⅜” |  3.78 x 10^6     |  
+ 
+ ### Apresentação de gráficos e sua respectiva análise ###
+ 
+A partir dos dados calculados foi possível obter o seguinte gráfico:
+<p align="center">
+  <img width="560" height="420" src="https://github.com/bia298/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_8/graficodinaflu.jpg">
+</p>
+
+
+ A partir da fórmula do número de Reynolds é possível concluir que para o experimento que realizamos a única variável era a velocidade. Com o gráfico é possível notar que essa relação apresenta um caráter linear e que os dois parâmetros são diretamente proporcionais o que bate com os equacionamentos.
+### Comparação dos resultados com a teoria envolvida ###
+Na teoria temos que o número de Reynolds acima de 4000 (ÇENGEL et al, 2017) indica um escoamento turbulento. Os valores obtidos experimentalmente são significativamente mais altos que os teóricos, alguns fatores podem ter acarretado nesse fato como o escoamento que saiu da torneira não ser perfeitamente linear e provavelmente estar em uma zona de transição. Outro indicativo a favor dessa hipótese é que a variação do número de reynolds entre as duas mangueiras não ultrapassou a ordem de 10 e portando as duas estavam em condições iniciais muito parecidas.
+Com tudo isso sendo levado em consideração é notável como a diminuição da área da secção transversal do escoamento em poucas polegadas foi o suficiente para causar essa mudança no número de reynolds e que tivemos um escoamento já turbulento aumentando a sua turbulência.
+### Conclusões do experimento ###
+Esse experimento permitiu a visualização de como a mudança de pequenos parâmetros em um escoamento, como nesse caso foi a área, podem resultar em mudanças comportamentais no escoamento. Além disso, a modificação da área alterou exclusivamente a velocidade do escoamento
+
+### Bibliografia: ###
+
+ÇENGEL, Yunus A; CIMBALA, John M. Mecânica dos fluidos: fundamentos e aplicações . São Paulo: McGraw-Hill, 2007.
+
+NÚMERO de Reynolds. Disponível em: <http://lamon.com.br/ckfinder/userfiles/files/Numero_Reynolds.pdf>. Acesso em: 24 ago. 2018.
+
+HOUGHTALEN, Robert J.; AKAN, A. Osman; HWANG, ‎ Ned H.c.. Engenharia hidráulica (. 4. ed. São Paulo: Pearson, 2012.

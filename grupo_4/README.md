@@ -115,13 +115,66 @@ Conforme a vazão volumétrica foi sendo alterada, cada ponto de tomada de press
 
 onde B refere-se ao segundo e E ao quinto tubo, contados de baixo para cima.
 
-### 4.	Análise e conclusão: ###
+
+## 4.	Análise e conclusão: ##
 
 
-O relatório desta etapa deverá ser feito no arquivo destinado a cada grupo neste repositório até o **dia 18/11/2018**, contendo os seguintes tópicos:
+### Integrantes do grupo ###
+  - Luiz Henrique F. Alves - 17/0163130
+  - Gustavo Lima de Souza - 15/0059973
+  - Bruno Souza Nunes - 18/0117670
+  
+### Apresentação dos dados medidos no experimento com seu respectivo experimental ###
+Conforme informado na Etapa 3, estes são os dados medidos durante a execução do experimento no laboratório, com os respectivos erros experimentais:
 
--	Integrantes do grupo;
--	Apresentação dos dados medidos no experimento com seu respectivo erro experimental;
--	Apresentação de gráficos e sua respectiva análise;
--	Comparação dos resultados com a teoria envolvida;
--	Conclusões do experimento;
+Diâmetros externos: Tubo B: 25,3 ± 0,5mm; Tubo E: 25,3 ± 0,1mm;
+
+Espessura comercial: 2mm.
+  
+![Tabela_1](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela%201.png)
+
+### Comparação dos resultados com a teoria envolvida ###
+O tubo E apresenta duas válvulas: uma válvula de esfera e uma válvula de globo. Estas válvulas funcionam conforme as imagens:
+
+![Válvulas](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/V%C3%A1lvulas.png)
+
+Intuitivamente, percebe-se que, quando completamente abertas (caso estudado pelo grupo), a válvula de esfera deve apresentar perda menor que a válvula de globo para um mesmo escoamento, já que apresenta menor variação de geometria e obstáculos ao fluido. Este raciocínio foi confirmado nos resultados obtidos na Tabela 1, onde observa-se que a perda de carga devido à válvula de esfera é completamente desprezível em relação à sua correspondente da válvula de globo.
+
+#### Cálculo da perda de carga ####
+Fórmulas: 
+
+![Fórmulas_1_e_2](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/F%C3%B3rmulas%201%20e%202.png)
+
+Partindo destas duas equações básicas, tem-se que:
+
+![Fórmula_3](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/F%C3%B3rmula%203.png)
+
+![Tabela_2](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela%202.png)
+
+Pela Tabela 2, obtém-se os valores de k para ambos os componentes: k1 = 0,07 e k2 = 7,8. A área da seção transversal interna dos tubos é: A = 356,32x10^-6 m².
+
+![Tabela_3](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela%203.png)
+
+Utilizando estes valores de k para o cálculo da perda de carga, obtém-se o seguinte resultado:
+
+![Tabela_4](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela%204.png)
+
+Observa-se que, para o componente 2, estes resultados estão muito distantes uns dos outros. Desta forma, o grupo decidiu utilizar um dos resultados experimentais para computar seu próprio valor de k. Utilizando a perda de carga com fluxo de 1600lph, achou-se um valor de k para o componente 2 de k=93,35.
+
+![Tabela_5](https://github.com/lgnsparda/Laboratorio_Dinamica_dos_Fluidos-FGA-UnB/blob/master/grupo_4/Tabela%205.png)
+
+Com este valor de k, nota-se que o componente 2 aparece muito mais próximo do valor teórico.
+
+### Conclusões do experimento ###
+De acordo com o que foi medido em laboratório e baseando-se nos resultados teóricos, pode-se chegar a uma série de constatações. Em primeiro lugar, percebe-se que as medições envolvendo o componente 1 aproximaram-se bastante dos valores esperados;
+
+Em segundo lugar, constatou-se um problema envolvendo as medições com o componente 2. Conforme dito anteriormente, foi necessário um artifício para encontrar o valor de k2, já que os resultados não estavam batendo. Depois de debater quanto às possíveis causas, o grupo chegou à conclusão de que possivelmente a válvula 2 não estava completamente aberta conforme esperado, e sim parcialmente aberta. Desse modo, a perda de carga realmente seria maior do que o planejado e o valor de k seria diferente daquele mostrado na Tabela 2.
+
+Portanto, pode-se dizer que, apesar da não identificação desse problema quanto aos resultados obtidos para o segundo componente durante a execução, o experimento foi planejado e executado com sucesso, tendo quaisquer outros empecilhos  identificados e corrigidos, em um deadline dentro do previsto e com cada etapa sendo documentada com clareza.
+
+### Referências Bibliográficas ###
+[1] Válvula de esfera, <https://www.mtibrasil.com.br/valvula-esfera-tripartida.php>, Acessado em 17/11/2018.
+
+[2] Válvula de globo, <https://www.solucoesindustriais.com.br/images/produtos/imagens_823/p_valvula-globo-para-gas-29.jpg>, Acessado em 17/11/2018.
+
+[3] Tabela de coeficiente de perda k, <http://www.metropumps.com/ResourcesFrictionLossData.pdf>, Acessado em 17/11/2018. 
