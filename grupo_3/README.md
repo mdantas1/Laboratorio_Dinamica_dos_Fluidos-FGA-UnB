@@ -82,6 +82,7 @@ Os itens são:
 3) Manômetro analógico;
 4) Medidor de vazão analógico;
 5) Conjunto Placa de orifício;
+
 Primeiramente, o integrante Matheus verificou a configuração das válvulas da bancada (retângulo 2 da figura). Como a bancada possui mais de um experimento em seu sistema, é necessário direcionar o fluxo de água para o encanamento do respectivo experimento. Feito isso o integrante Danilo ligou a bomba de água do sistema usando o interruptor da bancada (retângulo 1 da figura) e em seguida, abriu o registro para permitir o escoamento de água através da tubulação. Com a água fluindo, o integrante Vitor certificou que não existe ar na tubulação da placa de orifício para medir a pressão, pois interfere nos valores. A pressão foi medida antes e depois da placa de orifício(retângulo 5 da figura) usando um manômetro analógico. Os piezômetros dispostos na bancada não foram usados pois apresentavam grande quantidade de ar e alta variação de medição. Por fim, o integrante Danilo mediu os diâmetros da tubulação e da placa de orifício usando um paquímetro digital e o integrante Mateus coletou os dados de vazão mostrado no medidor de vazão analógico (retângulo 3 da figura) presente na bancada. Por fim, a bomba de água da bancada foi desligada. 
 
 Obteve-se a pressão antes e depois da placa de orifício e a vazão experimental de água como exemplificado na figura 02.
